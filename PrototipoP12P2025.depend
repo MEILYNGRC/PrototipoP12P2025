@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\usuario\onedrive\escritorio\progra12025\progra\calculadora\prototipop12p2025\main.cpp
+	<iostream>
+
+1744128678 source:c:\users\usuario\onedrive\escritorio\progra12025\progra\calculadora\prototipop12p2025\src\alumno.cpp
+	"Alumno.h"
+
+1744128678 c:\users\usuario\onedrive\escritorio\progra12025\progra\calculadora\prototipop12p2025\include\alumno.h
+	<string>
+

@@ -5,7 +5,7 @@
 int main() {
     srand(time(0));
 
-    float mejorPromedioGeneral = 0;
+    float mejorPromedioGeneral = 0; //mejor promedio
     std::string mejorFacultadGeneral;
     char opcion;
 // use este ciclo

@@ -40,7 +40,7 @@ int main() {
             mejorFacultadGeneral = mejorFacultad;
         }
 
-        std::cout << "\n¿Desea realizar otra iteración? (s/n): ";
+        std::cout << "\n¿Desea realizar otra iteración? (s/n): ";//para poder tomar la decicion de seguir
         std::cin >> opcion;
     } while (opcion == 's' || opcion == 'S');
 
